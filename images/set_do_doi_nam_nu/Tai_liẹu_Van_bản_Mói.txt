@@ -1,0 +1,7 @@
+set đồ đôi nam nữ
+size(s,m,l,xl...)
+set màu đỏ
+set màu trắng
+set mặc định
+set màu hồng
+mô tả:Đồ đôi nam nữ COUPLE-hàng cao cấp 

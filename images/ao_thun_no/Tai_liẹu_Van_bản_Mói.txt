@@ -1,0 +1,7 @@
+Áo thun nơ 
+     - size (S,M,L,XL,...)
+     - áo nơ mặc định
+     - áo nơ đen
+     - áo nơ xám
+     - áo nơ trắng
+     - mô tả sản phẩm:Áo thun nơ nữ hàn quốc cổ tròn đẹp áo thun cute

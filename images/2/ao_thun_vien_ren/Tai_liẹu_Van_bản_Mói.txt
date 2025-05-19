@@ -1,0 +1,7 @@
+áo thun ren 
+     - size (S,M,L,XL,...)
+     - áo thun ren mặc định
+     - áo thun ren  màu đen
+     - áo thun ren  màu xanh 
+     - áo thun ren màu hồng
+     - mô tả sản phẩm:Áo Thun Nữ Form Ôm Phối Ren

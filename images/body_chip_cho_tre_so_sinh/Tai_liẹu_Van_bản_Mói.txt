@@ -1,0 +1,7 @@
+set body chipcho trẻ sơ sinh
+size(1,2,3,4,5)
+set cà rốt
+set dâu tây
+set quả dứa
+set mặc định
+mô tả:Body chíp cho bé sơ sinh  2 dây mùa hè cho bé chất cotton mềm mát

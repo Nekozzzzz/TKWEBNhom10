@@ -1,0 +1,7 @@
+Chân váy
+     - size (S,M,L,XL,...)
+     - chân váy mặc định
+     - chân váy hồng
+     - chân váy trắng
+     - chân váy xám
+     - mô tả:CHÂN VÁY TENNIS CÓ QUẦN BẢO HỘ

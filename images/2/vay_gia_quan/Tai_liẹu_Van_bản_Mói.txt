@@ -1,0 +1,7 @@
+váy giả quần 
+     - size (S,M,L,XL,...)
+     - váy giả quần mặc định
+     - váy giả quần màu đen
+     - váy giả quần màu hồng
+     - váy giả quần màu kem
+     - mô tả sản phẩm:Quần Giả Váy 4 Tầng Dáng Ngắn Lưng Thun Dễ Thương

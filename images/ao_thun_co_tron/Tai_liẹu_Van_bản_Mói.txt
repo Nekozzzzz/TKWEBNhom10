@@ -1,0 +1,7 @@
+áo thun cổ tròn
+size(s,m,l,xl...)
+áo mặc định
+áo đen
+áo trắng
+áo xám đậm
+mô tả:Áo thun cổ tròn trơn nhúm eo 4 phong cách Hàn Quốc 

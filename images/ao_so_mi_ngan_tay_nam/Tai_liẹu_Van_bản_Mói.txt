@@ -1,0 +1,7 @@
+áo sơ mi ngắn tay cho nam
+     - size (S,M,L,XL,...)
+     - áo sơ mi mặc định
+     - áo sơ mi màu trắng
+     - áo sơ mi màu đen
+     - áo sơ mi màu kem
+     - mô tả sản phẩm:Áo Sơ mi ngắn tay thấm hút mồ hôi

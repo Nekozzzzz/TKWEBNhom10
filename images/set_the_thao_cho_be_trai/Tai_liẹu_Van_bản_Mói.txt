@@ -1,0 +1,7 @@
+set thể thao cho bé trai
+- size (S,M,L,XL,...)
+     set  mặc định
+     set màu đỏ
+set màu xanh
+set mùa bích
+mô tả: Bộ đồ thể thao sát nach quần viên tròn nhiều màu

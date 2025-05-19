@@ -1,0 +1,7 @@
+áo thun trễ vai 
+     - size (S,M,L,XL,...)
+     - áo thun trễ vai mặc định
+     - áo thun trễ vai màu đen
+     - áo thun trễ vai màu đỏ
+     - áo thun trễ vai màu hồng
+     - mô tả sản phẩm:Áo thun trễ vai cộc tay ôm body

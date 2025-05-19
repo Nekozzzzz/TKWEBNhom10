@@ -1,0 +1,7 @@
+set đồ gia đình
+size(s,m,l,xl...)
+set mặc định
+set màu bươ
+set màu vàng
+set màu xanh
+mô tả:set đồ gia đình dễ thương 100% cotton

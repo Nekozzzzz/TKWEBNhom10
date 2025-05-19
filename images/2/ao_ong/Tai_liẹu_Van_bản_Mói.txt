@@ -1,0 +1,7 @@
+Áo Ống Trơn Basic
+- size (S,M,L,XL,...)
+     - áo ống mặc định
+     - áo ông màu vàng
+     - áo ống màu xanh biển
+     - áo ống màu nâu
+     - mô tả sản phẩm: Áo Ống Trơn Basic Ôm Body Nhiều Màu Chất Liệu Cotton Mỏng Mát 

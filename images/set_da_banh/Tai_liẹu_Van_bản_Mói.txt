@@ -1,0 +1,8 @@
+set đồ dá banh
+size(s,m,l,xl...)
+set mặc định
+set màu đỏ
+set màu xanh
+set màu trắng
+mô tả:Bộ quần áo bóng đá  hàng thun lạnh cao cấp
+

@@ -1,0 +1,7 @@
+áo thun boxy
+size(s,,m,l,xl...)
+áo màu mặc định
+áo màu đỏ
+áo màu xám
+áo màu trắng
+mô ta:Áo thun form boxy cotton

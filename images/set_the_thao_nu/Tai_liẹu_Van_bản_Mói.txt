@@ -1,0 +1,7 @@
+set thể thao nữ
+size(s,m,l,xl,...)
+set mặc định
+set tím
+set xanh bơ
+set xanh biển
+mô tả:Bộ Váy Thể Thao Nữ Áo Tay Ngắn kèm chân váy

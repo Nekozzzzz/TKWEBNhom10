@@ -1,0 +1,7 @@
+set thể thao nam
+size(s,m,l,xl...) 
+set mặc định
+set màu xanh
+set màu ghi
+set màu xanh than
+mô tả: quần áo thể thao nam chất thun lạnh co giãn thấm hút mồ hôi tốt 

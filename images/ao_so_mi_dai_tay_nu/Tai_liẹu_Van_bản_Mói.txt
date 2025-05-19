@@ -1,0 +1,7 @@
+áo sơ mi dài tay nữ
+- size (S,M,L,XL,...)
+     - áo mặc định
+     - áo màu cam sữa
+     - áo màu trắng
+     - áo màu vàng chanh
+mô tả:Áo sơ mi nữ tay dài form rộng lụa cát hàn trơn 

@@ -1,0 +1,7 @@
+áo sơ mi ngắn tay nữ
+- size (S,M,L,XL,...)
+     - áo  mặc định
+     - nơ sọc đen
+áo nơ sọc đỏ
+áo nơ sọc xanh
+mo tả:o Sơ Mi Nữ Form Rộng kiểu sọc nơ thêu

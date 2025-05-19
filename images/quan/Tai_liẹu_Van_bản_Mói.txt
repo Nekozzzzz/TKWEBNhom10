@@ -1,0 +1,9 @@
+Quần
+- size (S,M,L,XL,...)
+- quần mặc định
+-quần sọc hồng
+-quần sọc kem
+-quần sọc nâu
+Mô tả:quần kẻ sọc chỉ ống suông rộng hack dáng đủ size dễ bận chất vải mịn mát
+
+

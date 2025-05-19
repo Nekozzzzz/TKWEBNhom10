@@ -1,0 +1,7 @@
+set đồ trẻ em
+size(S,M,L,XL,...)
+set đồ trẻ em mặc định
+set đồ trẻ em màu hồng
+set đồ trẻ em màu xanh than
+set đồ trẻ em màu be
+mô tả:bộ quần áo mùa hè dành cho bé trai và bé gái

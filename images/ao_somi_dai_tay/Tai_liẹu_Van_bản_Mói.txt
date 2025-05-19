@@ -1,0 +1,7 @@
+áo sơ mi tay dài
+     - size (S,M,L,XL,...)
+     - áo sơ mi  mặc định
+     - áo màu xanh mint
+     - áo màu xanhve chai
+     - áo màu xám
+     - mô tả sản phẩm:Áo sơ mi nam tay dài  Vải Chéo dày dặn, co giãn 2 chiều
