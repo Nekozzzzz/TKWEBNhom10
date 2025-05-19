@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Thông tin cá nhân - BlueShop</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo"><a href="index.html" class="logo-link">BlueShop</a></h1>
+        </div>
+    </header>
+    <nav class="navbar">
+        <ul>
+            <li><a href="index.html">Trang chủ</a></li>
+            <li><a href="cart.html" id="cart-btn">Giỏ hàng (<span id="cart-count">0</span>)</a></li>
+            <li><a href="order-history.html">Đơn hàng đã mua</a></li>
+            <li><a href="contact.html">Liên hệ</a></li>
+        </ul>
+    </nav>
+    <main class="form-container">
+        <h2>Thông tin cá nhân</h2>
+        <form id="profile-form">
+            <label for="fullname">Họ và tên:</label>
+            <input type="text" id="fullname" name="fullname" required>
+
+            <label for="cccd">Số CCCD:</label>
+            <input type="text" id="cccd" name="cccd" required>
+
+            <label for="dob">Ngày sinh:</label>
+            <input type="date" id="dob" name="dob" required>
+
+            <label for="address">Địa chỉ:</label>
+            <input type="text" id="address" name="address" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="phone">Số điện thoại:</label>
+            <input type="tel" id="phone" name="phone" required>
+
+            <button type="submit" id="save-btn">Lưu thông tin</button>
+            <button type="button" id="edit-btn" style="display: none;">Sửa thông tin</button>
+        </form>
+    </main>
+    <footer class="footer">
+        <p>Cửa hàng thời trang BlueShop - Liên hệ số điện thoại: 03xxxxxx65 - Địa chỉ: TP Vũng Tàu</p>
+    </footer>
+    <script src="js/profile.js"></script>
+</body>
+</html>
