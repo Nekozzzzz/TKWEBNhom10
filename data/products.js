@@ -140,8 +140,7 @@ const products = [
             'images/chan_vay/chan_vay_xam.webp',
         ],
         description: 'Chân váy TENNIS có quần bảo hộ.'
-    }
-];
+    },
 {
     name: 'Đầm body',
     price: 200000,
