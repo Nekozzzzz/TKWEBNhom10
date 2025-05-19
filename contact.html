@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BlueShop - Liên hệ</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo"><a href="index.html" class="logo-link">BlueShop</a></h1>
+        </div>
+    </header>
+    <nav class="navbar">
+        <div class="container">
+            <ul>
+                <li><a href="index.html" class="nav-link">Trang chủ</a></li>
+                <li><a href="cart.html" id="cart-btn">Giỏ hàng (<span id="cart-count">0</span>)</a></li>
+                <li><a href="order-history.html" class="nav-link">Đơn hàng đã mua</a></li>
+                <li><a href="contact.html" class="nav-link active">Liên hệ</a></li>
+            </ul>
+        </div>
+    </nav>
+    <main class="container">
+        <h2>Liên hệ đã gửi</h2>
+        <div id="contact-controls" style="margin-bottom: 1rem;">
+            <button id="clear-all-contacts-btn" class="btn-red">Xóa toàn bộ liên hệ</button>
+        </div>
+        <div id="contact-list-container"></div>
+    </main>
+    <footer class="footer">
+        <p>Cửa hàng thời trang BlueShop - Liên hệ số điện thoại: 03xxxxxx65 - Địa chỉ: TP Vũng Tàu</p>
+    </footer>
+    <script src="js/contact.js"></script>
+</body>
+</html>

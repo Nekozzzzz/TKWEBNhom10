@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Đăng nhập - BlueShop</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo"><a href="index.html" class="logo-link">BlueShop</a></h1>
+        </div>
+    </header>
+    <main class="register-container">
+        <div class="form-box">
+            <h2 class="form-title">Đăng nhập</h2>
+            <form id="login-form">
+                <input type="text" id="login-username" placeholder="Tên đăng nhập" required />
+                <input type="password" id="login-password" placeholder="Mật khẩu" required />
+                <button type="submit">Đăng nhập</button>
+                <p class="form-footer">Chưa có tài khoản? <a href="register.html">Đăng ký ngay</a></p>
+                <div class="error-message" id="error-message"></div>
+            </form>
+        </div>
+    </main>
+    <footer class="footer">
+        <p>Cửa hàng thời trang BlueShop - Liên hệ số điện thoại: 03xxxxxx65 - Địa chỉ: TP Vũng Tàu</p>
+    </footer>
+    <script>
+        document.getElementById('login-form').addEventListener('submit', function (e) {
+            e.preventDefault();
+            const username = document.getElementById('login-username').value.trim();
+            const password = document.getElementById('login-password').value;
+            const errorMessage = document.getElementById('error-message');
+            const users = JSON.parse(localStorage.getItem('users') || '[]');
+            const user = users.find(u => u.username === username && u.password === password);
+            if (!user) {
+                errorMessage.textContent = "Tên đăng nhập hoặc mật khẩu không đúng.";
+                errorMessage.style.display = "block";
+                return;
+            }
+            localStorage.setItem('currentUser', JSON.stringify(user));
+            alert("Đăng nhập thành công!");
+            window.location.href = "index.html";
+        });
+    </script>
+
+</body>
+</html>

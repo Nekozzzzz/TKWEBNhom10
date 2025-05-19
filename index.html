@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BlueShop - Trang Mua Sắm</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo"><a href="index.html" class="logo-link">BlueShop</a></h1>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Tìm kiếm sản phẩm..." class="search-bar" autocomplete="off">
+                <ul id="search-suggestions" class="suggestions-box"></ul>
+            </div>
+            <div id="user-info">
+                <a id="welcome-user" href="profile.html" style="display: none; margin-right: 10px; text-decoration: none; color: #ffffff;"></a>
+                <button id="login-btn">Đăng nhập</button>
+                <button id="logout-btn" style="display: none;">Đăng xuất</button>
+            </div>
+        </div>
+    </header>
+    <nav class="navbar">
+        <ul>
+            <li><a href="index.html">Trang chủ</a></li>
+            <li><a href="cart.html" id="cart-btn">Giỏ hàng (<span id="cart-count">0</span>)</a></li>
+            <li><a href="order-history.html">Đơn hàng đã mua</a></li>
+            <li><a href="contact.html">Liên hệ</a></li>
+        </ul>
+    </nav>
+    <main class="products-container">
+        <div id="product-list-container" class="product-list"></div>
+    </main>
+    <footer class="footer">
+        <p>Cửa hàng thời trang BlueShop - Liên hệ số điện thoại: 03xxxxxx65 - Địa chỉ: TP Vũng Tàu</p>
+    </footer>
+    <script src="data/products.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
